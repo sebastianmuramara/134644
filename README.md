@@ -1,6 +1,8 @@
 # 134644
 
-The admin panel folder contains the codes for the admin module, which is not part of the game but rather HTML based.
+The files contained are a demonstration of my proposed chemistry practical simulation game for my Information Systems II Project.
+
+The admin_panel folder contains the codes for the admin module, which is not part of the game but rather HTML based.
 More can be added to make the module complete.
 
 The Chemistry Game Unity folder contains the materials used to make the game demo.
